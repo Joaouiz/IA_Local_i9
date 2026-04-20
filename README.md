@@ -1,20 +1,19 @@
-# 🤖 Chatbot Inteligente para Startup de Energia Sustentável
+# Chatbot Inteligente para Startup de Energia Sustentável
 
 Este projeto consiste em um chatbot baseado em Inteligência Artificial capaz de responder perguntas sobre uma startup que atua com reciclagem de baterias de veículos elétricos.
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
-* 💬 Respostas automáticas baseadas em conteúdo da empresa
-* 🧠 Uso de modelos de linguagem locais (LLM)
-* ⚡ Execução offline (sem necessidade de API paga)
-* 🌐 API REST para integração com frontend
-* 🔄 Suporte a múltiplos modelos (leve e avançado)
+*  Respostas automáticas baseadas em conteúdo da empresa
+*  Uso de modelos de linguagem locais (LLM)
+*  Execução offline (sem necessidade de API paga)
+*  Suporte a múltiplos modelos (leve e avançado)
 
 ---
 
-## 🧱 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * Python
 * Flask
@@ -24,7 +23,7 @@ Este projeto consiste em um chatbot baseado em Inteligência Artificial capaz de
 
 ---
 
-## 🧠 Modelos de IA
+## Modelos de IA
 
 O sistema suporta diferentes modelos, permitindo adaptação conforme o hardware disponível:
 
@@ -40,7 +39,7 @@ MODEL = "tinyllama"
 
 ---
 
-## 📦 Como Executar o Projeto
+## Como Executar o Projeto
 
 ### 1. Clonar o repositório
 
