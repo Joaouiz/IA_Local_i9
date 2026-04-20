@@ -8,7 +8,6 @@ MODEL = "mistral"
 app = Flask(__name__)
 CORS(app)
 
-# 🔥 Carrega contexto uma vez só
 with open("TextoSite.txt", "r", encoding="utf-8") as f:
     CONTEXTO = f.read()
 
