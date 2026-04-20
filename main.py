@@ -5,7 +5,7 @@ import requests
 USAR_API = True  # True = Gemini | False = Ollama
 
 # LOCAL (Ollama)
-MODEL_LOCAL = "mistral"
+MODEL_LOCAL = "mistral" #Para o modelo leve eh so substituir por "tinyllama"
 
 # API (Gemini)
 GEMINI_API_KEY = "Tua key aqui!"
