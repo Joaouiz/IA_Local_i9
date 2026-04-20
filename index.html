@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chatbot i9+</title>
+</head>
+<body>
+
+<h2>Chat com a i9+</h2>
+
+<input type="text" id="pergunta" placeholder="Digite sua pergunta">
+<button onclick="enviar()">Enviar</button>
+
+<p id="status"></p>
+<p id="resposta" style="border:1px solid black; padding:10px;"></p>
+
+<script>
+async function enviar() {
+    const pergunta = document.getElementById("pergunta").value;
+
+    // Mostra "digitando..."
+    document.getElementById("status").innerText = "Digitando...";
+    document.getElementById("resposta").innerText = "";
+
+    try {
+        const response = await fetch("http://127.0.0.1:5000/chat", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({ pergunta })
+        });
+
+        const data = await response.json();
+
+        // Mostra resposta
+        document.getElementById("status").innerText = "";
+        document.getElementById("resposta").innerText = data.resposta;
+
+    } catch (error) {
+        document.getElementById("status").innerText = "";
+        document.getElementById("resposta").innerText = "Erro ao obter resposta.";
+    }
+}
+</script>
+
+</body>
+</html>

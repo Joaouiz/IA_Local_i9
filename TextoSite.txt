@@ -1,0 +1,102 @@
+A i9+ é uma startup de deep tech focada em mobilidade elétrica, economia circular e armazenamento de energias renováveis. Seu objetivo é transformar a gestão de baterias com o uso de Inteligência Artificial, proporcionando maior eficiência, redução de custos operacionais e sustentabilidade para a matriz energética.
+
+A tecnologia da empresa é validada por instituições como SENAI CIMATEC, Instituto Jaime Lerner, Habiterra, SEBRAE e Fundação Araucária.
+
+====================
+SOLUÇÕES PRINCIPAIS
+====================
+
+A empresa atua com três pilares principais:
+
+1. Plataforma SBM (Smart Battery Management)
+Sistema proprietário de gestão inteligente de baterias, com monitoramento em tempo real utilizando sensores IoT e Inteligência Artificial.
+Permite acompanhar:
+- Estado de carga (SOC)
+- Estado de saúde (SOH)
+- Previsão de falhas
+- Otimização da vida útil das baterias
+
+Funcionalidades:
+- Monitoramento 24/7
+- Análise preditiva com até 30 dias de antecedência
+- Relatórios ESG
+- Conectividade 4G/5G
+- Dashboard centralizado e intuitivo
+
+2. Economia Circular (Second Life)
+Recondicionamento de baterias de íon-lítio para segunda vida.
+
+Processo:
+- Coleta e diagnóstico com IA
+- Recondicionamento e substituição de células
+- Rebalanceamento do sistema
+- Reaplicação em novos usos
+
+Aplicações:
+- Armazenamento de energia solar
+- Sistemas de backup (no-break)
+- Aplicações industriais
+
+Benefícios:
+- Redução de até 70% das emissões de CO2
+- Custo até 60% menor que baterias novas
+- Extensão da vida útil em até 10 anos
+- Certificação técnica completa
+
+3. Consultoria
+Desenvolvimento de projetos personalizados para transição energética corporativa.
+
+====================
+IMPACTO ESG
+====================
+
+- Mais de 1.000 toneladas de CO2 evitadas
+- Mais de 5.000 baterias recondicionadas
+- 98% de eficiência em diagnóstico com a plataforma SBM
+
+A empresa contribui para:
+- Ambiental (E): redução de emissões e economia circular
+- Social (S): geração de empregos em tecnologia verde
+- Governança (G): relatórios rastreáveis e transparência
+
+====================
+APLICAÇÕES
+====================
+
+- Frotas de veículos elétricos (carros, vans e ônibus)
+- Empilhadeiras industriais
+- Maquinário industrial
+- Sistemas de armazenamento estacionário
+
+====================
+PERGUNTAS FREQUENTES
+====================
+
+O que é o sistema SBM?
+É uma plataforma de gestão inteligente de baterias que utiliza sensores IoT e IA para monitorar e prever falhas, aumentando a vida útil dos sistemas.
+
+As baterias de segunda vida são seguras?
+Sim. Todas passam por diagnóstico rigoroso e apenas células aprovadas são reutilizadas. As baterias possuem certificação e garantia.
+
+Quais tipos de baterias são utilizadas?
+Principalmente baterias de íon-lítio:
+- LFP (Lítio-Ferro-Fosfato)
+- NMC (Níquel-Manganês-Cobalto)
+- LTO (Titanato de Lítio)
+
+Qual o prazo de implementação?
+- Pequenas frotas: 4 a 6 semanas
+- Grandes operações: cronograma personalizado
+
+====================
+CONTATO
+====================
+
+Email: contato@i9mais.ind.br
+Telefone: +55 (41) 3333-9999
+Endereço: Curitiba - PR, Brasil
+
+Horário de atendimento:
+Segunda a sexta, das 08:00 às 18:00
+
+A empresa conta com equipe comercial e equipe técnica especializada em baterias de lítio.
