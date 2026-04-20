@@ -8,7 +8,7 @@ USAR_API = True  # True = Gemini | False = Ollama
 MODEL_LOCAL = "mistral"
 
 # API (Gemini)
-GEMINI_API_KEY = "AIzaSyBOEiESkGer5Cs-oSZ05skg1iULmP-k318"
+GEMINI_API_KEY = "Tua key aqui!"
 GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
 
 app = Flask(__name__)
