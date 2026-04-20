@@ -20,6 +20,7 @@ Este projeto consiste em um chatbot baseado em Inteligência Artificial capaz de
 * Flask-CORS
 * Requests
 * Ollama (execução de modelos locais)
+* ChatGPT
 
 ---
 
@@ -45,7 +46,7 @@ MODEL = "tinyllama"
 
 ```bash
 git clone https://github.com/Joaouiz/IA_Local_i9.git
-cd seu-repo
+cd IA_Local_i9
 ```
 
 ---
@@ -95,7 +96,7 @@ O servidor será iniciado localmente, basta abrir o .html com um navegador para 
 
 ## Integração com Frontend
 
-Ti fode ai KKKKKKKKKKKKK
+O ChatGPT fez um HTML pra testar direto na web a IA, não irei me aprofundar aqui porque eu realmente não possuo conhecimento nessa área.
 
 ---
 
