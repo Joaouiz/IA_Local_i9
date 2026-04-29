@@ -1,4 +1,4 @@
-# Chatbot Inteligente para Startup de Energia Sustentável
+# Chatbot Inteligente para Startup
 
 Este projeto consiste em um chatbot baseado em Inteligência Artificial capaz de responder perguntas sobre uma startup que atua com reciclagem de baterias de veículos elétricos.
 
